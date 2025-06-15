@@ -8,10 +8,10 @@ https://tiagowright.github.io/DreamSeed/
 
 ## ✨ Features
 
-- Generates unique, creative combinations of:
-  - Characters (like "A talking kitten", "A wise old owl", "A magical unicorn")
-  - Activities (like "riding a bike", "flying a kite", "building a sandcastle")
-  - Funny elements (like "wearing mismatched socks", "singing opera backwards")
+Generates unique, creative combinations of:
+- Characters (like "A talking kitten", "A wise old owl", "A magical unicorn")
+- Activities (like "riding a bike", "flying a kite", "building a sandcastle")
+- Funny elements (like "wearing mismatched socks", "singing opera backwards")
 
 ## 🤝 Contributing
 
