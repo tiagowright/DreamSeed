@@ -1,6 +1,6 @@
 # 🌟 DreamSeed
 
-DreamSeed is a whimsical web application that generates creative and imaginative combinations of characters, activities, and funny elements. My kids always ask for a DreamSeed before bed, because (they claim) to give them great dreams!
+DreamSeed is a whimsical web application that generates creative and imaginative combinations of characters, activities, and funny elements. My kids always ask for a DreamSeed before bed, because it gives them great dreams (so they claim, you mileage may vary)!
 
 ## 🚀 Live Link
 
@@ -12,8 +12,6 @@ https://tiagowright.github.io/DreamSeed/
   - Characters (like "A talking kitten", "A wise old owl", "A magical unicorn")
   - Activities (like "riding a bike", "flying a kite", "building a sandcastle")
   - Funny elements (like "wearing mismatched socks", "singing opera backwards")
-- Simple, clean interface
-- Instant generation with a single click
 
 ## 🤝 Contributing
 
